@@ -17,6 +17,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 
 👨‍💻 About the Author
+
 Hey, I’m Suharta Ahmed, a Data Analyst. I break down complex data topics into simple, practical content that actually helps you make decisions efficiently.
 
 
