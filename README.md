@@ -16,12 +16,12 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 <img width="894" height="435" alt="image" src="https://github.com/user-attachments/assets/da155331-0226-45f4-9fa2-3587f13671fb" />
 
 
-👨‍💻 About the Author
+👨‍💻 **About the Author**
 
 Hey, I’m Suharta Ahmed, a Data Analyst. I break down complex data topics into simple, practical content that actually helps you make decisions efficiently.
 
 
-💼 LinkedIn:https://www.linkedin.com/in/suhartaahmed/
+💼 **LinkedIn**:https://www.linkedin.com/in/suhartaahmed/
 
 
 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
